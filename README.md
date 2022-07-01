@@ -8,5 +8,5 @@ Task 3: Storing podcast metadata into the created database
 Task 4: Downloading the actual podcast audio using the python requests library
 
 ## Future Work
-* Automatically transcribe downloaded podcast episodes using Vosk and pydub and summarize them
+* Extend the pipeline to automatically transcribe downloaded podcast episodes using Vosk and pydub and summarize them
 * Host downloaded podcast episodes and their summaries on an html page
